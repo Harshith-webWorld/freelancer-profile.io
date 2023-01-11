@@ -22,13 +22,13 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classics like {"  "}
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple">HTML5,CSS3,JAVASCRIPT,TYPESCRIPT, REACT JS,REDUX,GRAPHQL,EXPRESS JS AND NODE JS </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building new {"  "}
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
@@ -65,7 +65,7 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://github.com/soumyajit4419"
                   target="_blank"
@@ -74,36 +74,36 @@ function Home2() {
                 >
                   <AiFillGithub />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
-                <a
+                {/* <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineTwitter />
-                </a>
+                </a> */}
               </li>
               <li className="social-icons">
-                <a
+                {/* <a
                   href="https://www.linkedin.com/in/soumyajit4419/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
+                </a> */}
               </li>
               <li className="social-icons">
-                <a
+                {/* <a
                   href="https://www.instagram.com/soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
-                </a>
+                </a> */}
               </li>
             </ul>
           </Col>
